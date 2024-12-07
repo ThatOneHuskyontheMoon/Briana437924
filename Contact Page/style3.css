@@ -1,0 +1,64 @@
+body {
+  background-image: url('OrangeBackGround2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+h1 {
+  color: #660000;
+}
+
+.Container1-style3{
+  border: 6px outset #C13602;
+  background-color: #E6BF83;    
+}
+
+.Container2-style3{
+  border: 6px outset mediumpurple;
+  background-color: #E0B0FF;    
+}
+
+h1.Project1{
+ color: #C13602;
+}
+
+h1.Project2{
+   color: #571B7E;
+ }
+
+h1.Design1{
+color: #C13602;
+}
+
+h1.Design2{
+color: #571B7E;
+}
+
+
+}
+img{
+  color: 5px solid #555;
+}
+
+nav { 
+display: flex; 
+gap: 0.5rem; 
+} 
+a {                                                                   
+flex: 1; 
+background-color: blueviolet; 
+color: white; 
+padding: 10px; 
+text-align: center; 
+text-decoration: none; 
+transition: all 0.5s ease-out;                                           
+} 
+a:hover, 
+a:focus { 
+background-color: mintcream;                 
+color: black;
+}
+
+/* Breana Dean A. Ferrer */
+/*CITCS-1L-B */
