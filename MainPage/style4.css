@@ -1,0 +1,37 @@
+body {
+  background-image: url('Floral BackGround Design.jpg');
+   background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+h1 {
+  color: #4B0082;
+}
+
+.BoxDesign1-style4{
+  border: 6px outset dodgerblue; 
+  background-color: #CFECEC;
+  text-align: left;
+}
+
+nav { 
+display: flex; 
+gap: 0.5rem; 
+} 
+a {                                                                   
+flex: 1; 
+background-color: blueviolet; 
+color: white; 
+padding: 10px; 
+text-align: center; 
+text-decoration: none; 
+transition: all 0.5s ease-out;                                           
+} 
+a:hover, 
+a:focus { 
+background-color: mintcream;                 
+color: black;
+}
+
+/* Breana Dean A. Ferrer */
+/*CITCS-1L-B */
